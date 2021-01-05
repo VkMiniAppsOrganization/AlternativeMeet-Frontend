@@ -10,7 +10,7 @@
     "@vkontakte/icons": "1.19.0",
     "@vkontakte/vk-bridge": "2.1.5",
     "@vkontakte/vkui": "3.5.7",
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "node-sass": "^4.13.1",
     "react": "16.13.1",
     "react-datepicker": "^2.14.1",
